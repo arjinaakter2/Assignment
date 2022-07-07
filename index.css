@@ -1,0 +1,144 @@
+header
+{ 
+    
+    background-image: url("donation7.jpg");
+    height: 100%;
+    width: 100%;
+    background: cover 100%;;
+    
+}
+.one{
+    text-align: center;
+}
+.two
+{
+    color: black;
+    background-color: red;
+  margin-left: 550px;  
+width:90px;
+text-align:center;
+
+border-radius:10px;
+
+}
+.three{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+   
+.block{
+    border: 1px solid rgb(255,117,117));
+    width:100px;
+    height:80px
+    display:inline-block;
+    border-radius:10px;
+    border-width:2px;
+    background-color:lightgray;
+    color:rgb(128,117,117);
+    float:left;
+    padding:2px 2px;
+    
+}
+.new{
+    border:1px solid black;
+    width: 100px;
+    height:80px
+    display: inline-block;
+    border-color:red;
+    color:red;
+    background-color: pink;
+    border-radius:10px;
+    border-width: 2px;
+    float:left;
+
+}
+.four{
+    margin-left: 300px;
+    float: left;
+    box-shadow: 10px 10px white;
+}
+.five{ text-align: center;}
+.a{
+    background-color: red;
+    color: black;
+    margin-left: 100px;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 5px;;
+}
+.six1
+{
+    text-align: center;
+}
+.tk{
+    text-align: center;
+    color: black;
+    
+    margin-top: 40px;
+    margin-left:100px;
+}
+.column{
+    float: left;
+    width: 33.3%;
+    margin-left: 20px;
+}
+.row::after{
+    content: " ";
+    display: table;
+}
+.b{
+    background-color: aquamarine;
+}
+.c{
+    background-color: peru;
+}
+.d{
+    background-color: peru;
+}
+
+.column1 {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row1::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .pic{ width: 70%;
+float:right;
+margin-top: 80px;
+margin-left: 20px;
+margin-right: 140x;
+}
+.add{
+width: 80%;
+text-align: center;
+background-color: whitesmoke;
+}
+.update{
+    text-align: center;
+}
+.last{
+    text-align: center;
+    color: rgb(190, 69, 25);
+    background-color:white;
+    padding: 100px 100px 50px 50px;
+}
+.foot{
+    background-color: black;
+}
+.ema{
+    height: 30px;
+    weight:20px;
+    background-color: brown;
+}
+.sub{
+    height: 30px;
+    weight:20px;
+    background-color: red;
+}
